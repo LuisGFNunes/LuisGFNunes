@@ -65,7 +65,7 @@
 
 <div align="center">
 
-  ### //--------------------------------communication------------------------------------//
+  ### //--------------------------------communication------------------------------------//
 
 *There's no point in trying to call me from space; the reception is terrible.*
 
