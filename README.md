@@ -1,6 +1,6 @@
 <div align="center">
 
-# //==================luis_g_f_nunes_log=================//
+# //=================luis_g_f_nunes_log================//
 ### `> STATUS: CONNECTED TO BEEP-SERVER`
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-### //-----------------------------------------------------------------system_status-----------------------------------------------------------------//
+### //-------------------------------------------------------------system_status-------------------------------------------------------------//
 <p align="center">
   <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
 </p>
@@ -22,7 +22,7 @@
 
 </div>
 
-### //----------------------------------------------------cargo_manifest_(technologies)-----------------------------------------------------//
+### //------------------------------------------------cargo_manifest_(technologies)-------------------------------------------------//
 *Here are the tools that make up my navigation system:*
 
 | | |
@@ -35,7 +35,7 @@
 
 ---
 
-### //--------------------------------------------------------active_rewards_(projects)---------------------------------------------------------//
+### //----------------------------------------------------active_rewards_(projects)-----------------------------------------------------//
 *Projects that have been seized and are in custody:*
 
 | Projeto | Descrição | Status |
@@ -45,7 +45,7 @@
 
 ---
 
-### //----------------------------------------------------------------telemetry_data----------------------------------------------------------------//
+### //------------------------------------------------------------telemetry_data------------------------------------------------------------//
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisGFNunes&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### //----------------------------------------------------------------communication----------------------------------------------------------------//
+### //------------------------------------------------------------communication------------------------------------------------------------//
 *There's no point in trying to call me from space; the reception is terrible.*
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/luis光-ferreira-29a084416)
