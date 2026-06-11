@@ -5,7 +5,7 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=21&center=true&lines=Whatever+happens...;happens.;Welcome+to+my+space." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=21&center=true&lines=Whatever+happens...;happens.;Welcome+to+my+space." alt="Typing SVG"/>
 </div>
 
 ![Banner](https://i.redd.it/1o0ov2v14vq71.gif)
@@ -17,7 +17,7 @@
   ### //------------------------------------system_status-------------------------------------//
 
 <p align="center">
-  <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
+  <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
 </p>
 
 ---
@@ -25,17 +25,18 @@
 </div>
 <div align="center">
 
-  ### //------------------------cargo_manifest_(technologies)-------------------------//
+  ### //----------------------cargo_manifest_(stack_overview)------------------------//
 
 *Here are the tools that make up my navigation system:*
 
 | | |
-| :--- | :--- 
-| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| **Arsenal** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
-| **Interface** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| :--- | :---
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-*Currently undergoing calibration/learning for the interface.*
+*Currently undergoing calibration/learning for the frontend.*
 
 ---
 <div align="center">
@@ -46,8 +47,8 @@
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| [EdTech]() | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
-| [The-Unopened-Escape]() |  A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
+| [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
+| [The-Unopened-Escape](https://github.com/AGoretti/The-Unopened-Escape.git) |  A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
 
 ---
 <div align="center">
@@ -55,16 +56,16 @@
   ### //------------------------------------telemetry_data------------------------------------//
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGFNunes&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGFNunes&show_icons=true&include_all_commits=true&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGFNunes&layout=compact&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGFNunes&layout=compact&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
 
-  ### //--------------------------------communication------------------------------------//
+  ### //--------------------------------communication------------------------------------//
 
 *There's no point in trying to call me from space; the reception is terrible.*
 
@@ -75,3 +76,4 @@
 *“See you, space cowboy...”*
 
 </div>
+gostaria de adicionar c# no backend
