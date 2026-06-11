@@ -1,15 +1,19 @@
 <div align="center">
 
-# // [Luis Gustavo Ferreira Nunes]
-> *“Whatever happens, happens.”*
+# // LUIS GUSTAVO FERREIRA NUNES
+### `> STATUS: CONNECTED TO BEEP-SERVER`
 
-<!-- Link para imagem de estilo retrô/anime aqui -->
-![Banner](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycGJmYWtjd29nYXdnZDgxNDNkYmloZzExY3JuajBnaWpqNjRvb3lleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QgwoSMw1mbpADGy5Gt/200.gif)
+*“Whatever happens, happens.”*
+
+![Banner](https://i.redd.it/1o0ov2v14vq71.gif)
+</div>
 
 ---
 
 ### // STATUS DO SISTEMA
-`[STATUS: ONLINE]` | `[DOCKING: ACTIVE]` | `[PILOT: READY]`
+<p align="center">
+  <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
+</p>
 
 ---
 
@@ -18,9 +22,13 @@
 ### // MANIFESTO DE CARGA (TECNOLOGIAS)
 *Aqui estão as ferramentas que compõem meu sistema de navegação:*
 
-*   **Linguagens:** `C++`, `Java`, `Python`, `TypeScript`
-*   **Arsenal:** `Docker`, `SQLite`, `PostgreSQL`
-*   **Interface:** `React(Aprendendo)`, `Tailwind CSS(Aprendendo)`
+| | |
+| :--- | :--- 
+| **Linguagens** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Arsenal** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Interface** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+
+*Em processo de calibração/aprendizado para Interface.*
 
 ---
 
@@ -29,8 +37,8 @@
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| [EdTech] | Repositório web desenvolvido para laboratórios universitários e grupos de iniciação científica.| Em Execução |
-| [The-Unopened-Escape] |  Minijogo cooperativo e assimétrico de horror psicológico, desenvolvido para óculos de Realidade Virtual (Meta Quest) | Em Execução |
+| [EdTech] | Repositório web desenvolvido para laboratórios universitários e grupos de iniciação científica.| 🟡 Em Progresso |
+| [The-Unopened-Escape] |  Minijogo cooperativo e assimétrico de horror psicológico, desenvolvido para óculos de Realidade Virtual (Meta Quest) | 🟡 Em Progresso |
 
 ---
 
