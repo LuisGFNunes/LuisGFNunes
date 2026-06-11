@@ -59,7 +59,7 @@
 ### //------------------------------------------------------------communication------------------------------------------------------------//
 *There's no point in trying to call me from space; the reception is terrible.*
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/luis光-ferreira-29a084416)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis%E5%85%89-ferreira-29a084416/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ferreiranunesluisgustavo447@gmail.com)
 
 ---
