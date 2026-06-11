@@ -1,6 +1,6 @@
 <div align="center">
 
-# // [SEU NOME OU ALIAS]
+# // [Luis Gustavo Ferreira Nunes]
 > *“Whatever happens, happens.”*
 
 <!-- Link para imagem de estilo retrô/anime aqui -->
