@@ -14,7 +14,7 @@
 ---
 <div align="center">
 
-  ### //-------------------------------------system_status-------------------------------------//
+  ### //------------------------------------system_status-------------------------------------//
 
 <p align="center">
   <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
