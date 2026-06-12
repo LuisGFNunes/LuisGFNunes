@@ -1,5 +1,7 @@
 <div align="center">
 
+![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
+
 # || luis_g_f_nunes_log ||
 ### `> STATUS: CONNECTED TO BEEP-SERVER`
 
@@ -10,9 +12,7 @@
 ![Banner](https://i.redd.it/1o0ov2v14vq71.gif)
 </div>
 
----
-
-![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
+![divider](https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif)
 
 </div>
 <div align="center">
@@ -30,8 +30,8 @@
 
 *Currently undergoing calibration/learning for the frontend.*
 
-![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
----
+![divider](https://images.hive.blog/DQmUSp3bkEN4MXKfSP1QAFnA53dYCKWJAN29DVgPXH2iJMA/hive-didver6.gif)
+
 <div align="center">
 
   ## || active_rewards_(projects) ||
@@ -43,7 +43,6 @@
 | [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
 | [The-Unopened-Escape](https://github.com/AGoretti/The-Unopened-Escape.git) | A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
 
----
 <div align="center">
 
   ## || telemetry_data ||
@@ -54,9 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGFNunes&layout=compact&bg_color=0A0A0A&title_color=FDF0D5&text_color=FFFFFF&icon_color=C1121F&hide_border=true" />
 </div>
 
----
 
 <div align="center">
+
+![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
 
   ## || communication ||
 
@@ -64,8 +64,8 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luis%E5%85%89-ferreira-29a084416/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ferreiranunesluisgustavo447@gmail.com)
+![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
 
----
 *“See you, space cowboy...”*
 
 ![Banner3](https://i.pinimg.com/originals/7d/b1/b7/7db1b761a3cbce2abefbd5b8c5e97c5b.gif)
