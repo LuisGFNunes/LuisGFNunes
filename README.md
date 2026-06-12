@@ -3,7 +3,6 @@
 # || luis_g_f_nunes_log ||
 ### `> STATUS: CONNECTED TO BEEP-SERVER`
 
-
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=21&center=true&lines=Whatever+happens...;happens.;Welcome+to+my+space." alt="Typing SVG"/>
 </div>
@@ -12,15 +11,8 @@
 </div>
 
 ---
-<div align="center">
 
-  ## || system_status ||
-  
-<p align="center">
-  <code>[STATUS: ONLINE]</code>  &nbsp; <code>[DOCKING: ACTIVE]</code>  &nbsp; <code>[PILOT: READY]</code>
-</p>
-
----
+![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
 
 </div>
 <div align="center">
@@ -38,6 +30,7 @@
 
 *Currently undergoing calibration/learning for the frontend.*
 
+![divider](https://64.media.tumblr.com/da7ec545a46e8ea43458f9bcd9cb5523/e4c9d738af433877-68/s2048x3072/15f4320d3a08a8d791600bafe7e87103d63f53d5.pnj)
 ---
 <div align="center">
 
@@ -74,5 +67,7 @@
 
 ---
 *“See you, space cowboy...”*
+
+![Banner3](https://i.pinimg.com/originals/7d/b1/b7/7db1b761a3cbce2abefbd5b8c5e97c5b.gif)
 
 </div>
