@@ -41,7 +41,7 @@
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
 | [EdTech](https://github.com/pedrohpsantos/EdTech.git) | Web repository developed for university laboratories and scientific initiation groups. | 🟡 In Progress |
-| [The-Unopened-Escape](https://github.com/AGoretti/The-Unopened-Escape.git) |  A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
+| [The-Unopened-Escape](https://github.com/AGoretti/The-Unopened-Escape.git) | A cooperative and asymmetrical psychological horror minigame, developed for Virtual Reality headsets (Meta Quest). | 🟡 In Progress |
 
 ---
 <div align="center">
