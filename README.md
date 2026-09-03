@@ -42,7 +42,7 @@
 [ISSP_DATABASE_SEARCH_RESULT]
 > Candidato: Luis Gustavo Ferreira Nunes
 > Origem: Graduando em Engenharia de Software — UnB (Universidade de Brasília) 🏫
-> Sistema Operacional: Fedora Linux 44 🐧
+> Sistema Operacional: Arch Linux 🐧
 > Recompensa Atual: Buscando aprender e amadurecer em projetos desafiadores e de alta performance.
 ```
 
