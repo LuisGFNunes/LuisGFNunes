@@ -60,8 +60,3 @@
 
 </div>
 
----
-
-## 🎷 💭 Jazz & Code
-
-> *"Eu não estou indo lá para morrer. Estou indo para saber se estou realmente programando."*
